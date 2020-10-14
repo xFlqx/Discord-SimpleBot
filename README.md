@@ -12,7 +12,7 @@ Simple Discord Bot
 <div align=center>
 
   <a href="https://discord.gg/gMaJBAn">
-    <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+    <img src="https://discordapp.com/api/guilds/765377322412933150/widget.png?style=shield" alt="shield.png">
   </a>
 
   <a href="https://github.com/discordjs">
