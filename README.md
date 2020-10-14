@@ -1,10 +1,23 @@
 <h1 align="center"> 
  <br>
   <a href="https://github.com/xFlqx/SimpleBot"><img src="https://i.ibb.co/znkr7Jk/simple-support-logo-6.png"></a>
-  <br>
+ <br>
 Simple Discord Bot
-A chat bot for Discord, built on top of <a href="https://discord.js.org">discord.js</a>.
+ <br>
 </h1>
+
+<h3 align=center>A fully customizable bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
+
+
+<div align=center>
+
+  <a href="https://discord.gg/gMaJBAn">
+    <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+  </a>
+
+  <a href="https://github.com/discordjs">
+    <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
+  </a>
 
 # Features:
 
@@ -148,4 +161,4 @@ Make sure you also have your Google server API key, which is located in the "you
 # Help
 Please check the GitHub issues page on this project. We get a lot of similar questions, and it is likely that yours has already been answered. 
 
-If you still need help, feel free to join us on [Discord](https://discord.gg/m29GJBN).
+If you still need help, feel free to join us on [Discord](https://discord.gg/gMaJBAn).
