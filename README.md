@@ -2,7 +2,7 @@
  <br>
   <a href="https://github.com/xFlqx/SimpleBot"><img src="https://i.ibb.co/znkr7Jk/simple-support-logo-6.png"></a>
   <br>
-# Simple Discord Bot
+Simple Discord Bot
 A chat bot for Discord, built on top of <a href="https://discord.js.org">discord.js</a>.
 </h1>
 
